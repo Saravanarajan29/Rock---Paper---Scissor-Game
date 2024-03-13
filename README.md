@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-![Game Preview]()
+![Game Preview](Overiew.png)
 
 ## Overview
 
